@@ -1,0 +1,2 @@
+[04-Feb-2015 23:31:56 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Auth_model::remove_from_group() in /home/axess1/public_html/PIXELNPRINT.COM/inven/sma/models/Auth_model.php on line 1132
+[04-Feb-2015 23:32:03 Asia/Kuala_Lumpur] PHP Fatal error:  Call to undefined method Auth_model::remove_from_group() in /home/axess1/public_html/PIXELNPRINT.COM/inven/sma/models/Auth_model.php on line 1132
